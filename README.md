@@ -3,7 +3,7 @@
 A friendly PyQt5 desktop interface for the fast KittenTTS neural text-to-speech models.  
 Runs locally on GPU (CUDA) or CPU and speaks in real time.
 
-![demo](G:\DEVELOPMENT-TRAE\KittenTTS-Test\screenshot\image_2026-02-25_15-44-41.png)
+![demo](screenshot\image_2026-02-25_15-44-41.png)
 
 ## Features
 - GPU acceleration (CUDA) – first run is ~1–2 s, CPU fallback included
